@@ -4,7 +4,7 @@
   "description": "Aprendiendo NodeJS Express y Sequelize",
   "main": "index.js",
   "scripts": {
-    "dev": "nodemon serve",
+    "dev": "nodemon server",
     "start": "node server"
   },
   "author": "Elide Zavala Vinagre",
