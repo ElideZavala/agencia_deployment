@@ -1,5 +1,5 @@
 {
-  "name": "intronodejs",
+  "name": "intronodejs", 
   "version": "1.0.0",
   "description": "Aprendiendo NodeJS Express y Sequelize",
   "main": "index.js",
