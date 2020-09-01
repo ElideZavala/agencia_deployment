@@ -1,21 +1,21 @@
 {
-  "name": "intronodejs", 
-  "version": "1.0.0",
-  "description": "Aprendiendo NodeJS Express y Sequelize",
-  "main": "index.js",
+  "name":"intronodejs", 
+  "version":"1.0.0",
+  "description":"Aprendiendo NodeJS Express y Sequelize",
+  "main":"index.js",
   "scripts": {
-    "dev": "nodemon server",
-    "start": "node server"
+    "dev":"nodemon server",
+    "start":"node server"
   },
-  "author": "Elide Zavala Vinagre",
-  "license": "ISC",
+  "author":"Elide Zavala Vinagre",
+  "license":"ISC",
   "dependencies": {
-    "body-parser": "^1.19.0",
-    "dotenv": "^8.2.0",
-    "express": "^4.17.1",
-    "mysql2": "^2.1.0",
-    "nodemon": "^2.0.4",
-    "pug": "^3.0.0",
-    "sequelize": "^6.3.4"
+    "body-parser":"^1.19.0",
+    "dotenv":"^8.2.0",
+    "express":"^4.17.1",
+    "mysql2":"^2.1.0",
+    "nodemon":"^2.0.4",
+    "pug":"^3.0.0",
+    "sequelize":"^6.3.4"
   }
 }
